@@ -406,6 +406,7 @@ int main() {
             }
             default:
                 cout << "Invalid choice! Please try again." << endl;
+                break;
         }
     }
 
